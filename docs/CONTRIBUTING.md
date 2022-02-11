@@ -185,7 +185,7 @@ MDX syntax can be boiled down to being JSX in Markdown. It’s a superset of Mar
 
 All of the articles in this repository use Markdown and MDX. While a complete introduction (and listing of all the syntax) can be found [here](https://guides.github.com/features/mastering-markdown/), let's cover some of the basics first.
 
-Recommended editors:
+Recommended editors
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Atom](https://atom.io/)
